@@ -405,7 +405,7 @@ ON e.branch_id = b.branch_id
 GROUP BY 1, 2
 ```
 
-**Task 19: Stored Procedure**
+**Task 18: Stored Procedure**
 Objective:
 Create a stored procedure to manage the status of books in a library system.
 Description:
