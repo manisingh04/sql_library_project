@@ -12,7 +12,6 @@ CREATE TABLE branch
             contact_no VARCHAR(15)
 );
 
-
 -- Create table "Employee"
 DROP TABLE IF EXISTS employees;
 CREATE TABLE employees
